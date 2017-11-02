@@ -8,3 +8,4 @@ Enjoy it!
 </p>
 client </p>
 https://github.com/shadowsocks/shadowsocks-windows/releases </p>
+![image](https://github.com/xiaomingzhong/vultr-ss.20171102152357.png)
