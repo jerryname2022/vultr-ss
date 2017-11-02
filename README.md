@@ -7,4 +7,4 @@ chmod +x shadowsocks.sh </p>
 Enjoy it!
 </p>
 client </p>
-https://github.com/shadowsocks/shadowsocks-windows/releases
+https://github.com/shadowsocks/shadowsocks-windows/releases </p>
