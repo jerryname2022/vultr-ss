@@ -12,4 +12,4 @@ https://github.com/shadowsocks/shadowsocks-windows/releases </p>
 ![image](https://github.com/xiaomingzhong/vultr-ss/blob/master/20171102152357.png) </p>
 
 ubuntu 14.04 & 16.04 </p>
-wget https://github.com/xiaomingzhong/vultr-ss/ruisu.sh && bash ruisu.sh
+wget https://github.com/xiaomingzhong/vultr-ss/blob/master/ruisu.sh && bash ruisu.sh
