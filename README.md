@@ -14,5 +14,5 @@ https://github.com/shadowsocks/shadowsocks-windows/releases </p>
 ubuntu 14.04 & 16.04 </p>
 wget https://github.com/xiaomingzhong/vultr-ss/blob/master/ruisu.sh && bash ruisu.sh
 
-
+ovz-bbr-installer.sh 
 https://www.bandwagonhost.net/1082.html
