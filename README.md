@@ -16,3 +16,9 @@ wget https://github.com/xiaomingzhong/vultr-ss/blob/master/ruisu.sh && bash ruis
 
 ovz-bbr-installer.sh 
 https://www.bandwagonhost.net/1082.html
+
+
+for android
+
+GMS is required for scanning QR codes since 4.5.0. You can still use third party scanners if you don't have GMS.
+
