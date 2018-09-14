@@ -34,3 +34,7 @@ GMS is required for scanning QR codes since 4.5.0. You can still use third party
 状态：/etc/init.d/shadowsocks status
 
 卸载: ./shadowsocks.sh uninstall
+
+shadowsocks多用户流量限制
+
+https://www.flyzy2005.com/fan-qiang/shadowsocks/multiple-users-and-traffic-limited/
